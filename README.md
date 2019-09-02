@@ -1,7 +1,8 @@
 # ExplicacionRepo
 
-Proyecto para ilustrar el uso de repositorios.
+Proyecto para probar como se trabaja en equipo
+sobre el mismo repositorio
 
 se ha incluido el archivo file1.txt
 
-mas info...
+mas info: En este proyecto trabajan varios programadores.
